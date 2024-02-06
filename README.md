@@ -5,11 +5,11 @@ This repository contains a student management application with a Spring Boot bac
 ### Project Structure
 
 * **backend/studentManagement:** Backend API built with Spring Boot
-* **frontend/studentManagement:** Frontend application built with React.
+* **webui:** Frontend application built with React.
 
 ### Technologies Used
 
-* Backend: `Spring Boot`, `Java`, `JPA`, `Hibernate`, `MySQL`
+* Backend: `Spring Boot`, `Java8`, `JPA`, `Hibernate`, `MySQL`
 * Frontend: `React`, `Material UI`
 
 ### Installation and Setup
@@ -41,7 +41,7 @@ Check if the docker container is running
 1. Install Node.js 16 or later.
 2. Install yarn or npm.
 3. Clone this repository.
-4. Open a terminal and navigate to the `frontend/webui` directory.
+4. Open a terminal and navigate to the `webui` directory.
 5. Install dependencies:
     ```
     yarn install
